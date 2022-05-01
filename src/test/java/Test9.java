@@ -97,7 +97,7 @@ public void GitTest(){
     doubleClick.doubleClick(doubleClickButton);
     doubleClick.perform();
     WebElement demo = driver.findElement(By.id("demo"));
-    Assert.assertTrue(demo.isDisplayed());
+
 }
 
 
