@@ -98,7 +98,6 @@ public void GitTest(){
     doubleClick.perform();
     WebElement demo = driver.findElement(By.id("demo"));
     Assert.assertTrue(demo.isDisplayed());
-fdsa
 }
 
 
